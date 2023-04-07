@@ -10,7 +10,7 @@ The favHash tool is used to import the hash from favicon.ico
 Clone the project
 
 ```
-  git clone https://github.com/N0LL101/favHash.git
+ 1- git clone https://github.com/N0LL101/favHash.git
 
  2- cd favHash
   
