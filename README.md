@@ -21,5 +21,5 @@ Clone the project
 
 ## Demo
 
-photo 
+![](demo.png)
 
